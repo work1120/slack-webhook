@@ -1,0 +1,11 @@
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\bin\Debug\netcoreapp2.0\SlackWebhook.Web.deps.json
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\bin\Debug\netcoreapp2.0\SlackWebhook.Web.runtimeconfig.json
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\bin\Debug\netcoreapp2.0\SlackWebhook.Web.runtimeconfig.dev.json
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\bin\Debug\netcoreapp2.0\SlackWebhook.Web.dll
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\bin\Debug\netcoreapp2.0\SlackWebhook.Web.pdb
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\obj\Debug\netcoreapp2.0\SlackWebhook.Web.csprojResolveAssemblyReference.cache
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\obj\Debug\netcoreapp2.0\SlackWebhook.Web.csproj.CoreCompileInputs.cache
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\obj\Debug\netcoreapp2.0\SlackWebhook.Web.AssemblyInfoInputs.cache
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\obj\Debug\netcoreapp2.0\SlackWebhook.Web.AssemblyInfo.cs
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\obj\Debug\netcoreapp2.0\SlackWebhook.Web.dll
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook\obj\Debug\netcoreapp2.0\SlackWebhook.Web.pdb

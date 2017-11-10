@@ -1,0 +1,6 @@
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook.Domain\bin\Debug\netcoreapp2.0\SlackWebhook.Domain.deps.json
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook.Domain\bin\Debug\netcoreapp2.0\SlackWebhook.Domain.dll
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook.Domain\obj\Debug\netcoreapp2.0\SlackWebhook.Domain.csprojResolveAssemblyReference.cache
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook.Domain\obj\Debug\netcoreapp2.0\SlackWebhook.Domain.csproj.CoreCompileInputs.cache
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook.Domain\obj\Debug\netcoreapp2.0\SlackWebhook.Domain.AssemblyInfoInputs.cache
+C:\work\_Study\NetCore\slack-webhook\SlackWebhook\SlackWebhook.Domain\obj\Debug\netcoreapp2.0\SlackWebhook.Domain.AssemblyInfo.cs
